@@ -15,7 +15,7 @@ namespace TesteVS2017GitHub
 
         public static double FahrenheitParaKelvin(double temperatura)
         {
-            return 1;
+            return 0;
         }
     }
 }
